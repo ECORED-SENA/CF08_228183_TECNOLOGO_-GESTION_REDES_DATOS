@@ -23,20 +23,20 @@
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/43.svg', alt='') 
 
-    h4.mb-5(data-aos="fade-down") Según Ariganello (2020), las dos principales arquitecturas de red desarrolladas para soportar los servicios de la virtualización de redes son:
+    h4.mb-3(data-aos="fade-down") Según Ariganello (2020), las dos principales arquitecturas de red desarrolladas para soportar los servicios de la virtualización de redes son:
 
     .row.justify-content-center.align-items-center        
-      .col-lg-6(data-aos="fade-right")
+      .col-lg-6.my-3(data-aos="fade-right")
         img.img-w(data-aos="zoom-in")(src='@/assets/curso/temas/44.png', alt='') 
         .bgw.p-4.brbott.h-100.text-center
           h4.tb(data-aos="fade-down") SDN
-          p(data-aos="fade-down").mb-0 Sus siglas se refieren a Software Defined Networking, que traducido al español significa Redes Definidas por Software, su objetivo principal es permitir una arquitectura de red que facilita la implementación de servicios de red. 
+          p(data-aos="fade-down").mb-0 Sus siglas se refieren a #[i Software Defined Networking], que traducido al español significa Redes Definidas por #[i Software], su objetivo principal es permitir una arquitectura de red que facilita la implementación de servicios de red. 
 
-      .col-lg-6(data-aos="fade-left")
+      .col-lg-6.my-3(data-aos="fade-left")
         img.img-w(data-aos="zoom-in")(src='@/assets/curso/temas/45.png', alt='') 
         .bgw.p-4.brbott.h-100.text-center
           h4.tb(data-aos="fade-down") ACI CISCO
-          p(data-aos="fade-down").mb-0 Sus siglas significan Application Centric Infrastructure, que traducido al español se refiere a la Infraestructura Centrada en Aplicaciones CISCO, que posibilita la agilidad de las aplicaciones y la automatización del centro de datos. 
+          p(data-aos="fade-down").mb-0 Sus siglas significan #[i Application Centric Infrastructure], que traducido al español se refiere a la Infraestructura Centrada en Aplicaciones CISCO, que posibilita la agilidad de las aplicaciones y la automatización del centro de datos. 
 
 </template>
 

@@ -142,7 +142,7 @@ export default {
       tema: 'Tipos de servicios de red',
       referencia:
         'Oracle. (2011). <i>La virtualización de redes y las redes virtuales</i>.',
-      tipo: 'Otro',
+      tipo: 'Web',
       link: 'https://docs.oracle.com/cd/E26921_01/html/E25833/gfkbw.html',
     },
   ],
@@ -270,13 +270,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yerson Fabian Zarate Saavedra',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edward Leonardo Pico Cabra',
           cargo: 'Desarrollador Fullstack',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -288,7 +288,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Emilsen Alfonso Bautista',
           cargo: 'Actividad Didáctica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',

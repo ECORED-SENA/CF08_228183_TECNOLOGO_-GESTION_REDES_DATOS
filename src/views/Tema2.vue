@@ -55,7 +55,7 @@
                   | Acceso remoto.
                 li 
                   i.fas.fa-project-diagram.c1
-                  | Internet working.
+                  span.mb-0 Internet #[i working].
                 li.mb-0 
                   i.fas.fa-project-diagram.c1
                   | Internet e Intranet.
@@ -70,7 +70,7 @@
       h2 2.2 Redes wifi como servicio de red
     p(data-aos="fade-down").mb-4 Las redes inalámbricas pueden considerarse como un tipo especial o diferente de servicio de red, debido a que permiten acceder a los recursos ofrecidos por la red principal; sin embargo, esta funciona como una red tradicional, lo que significa que debe contar con los componentes necesarios para funcionar, los cuales son:   
     .row.justify-content-center.mb-4 
-      .col-lg-4.my-2
+      .col-lg-4.my-2.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/29.svg', alt='')
       .col-lg-8.my-2
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg13")
