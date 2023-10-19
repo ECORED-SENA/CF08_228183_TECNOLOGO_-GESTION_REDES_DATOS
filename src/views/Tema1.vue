@@ -164,7 +164,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/TGYx-geVl8E?si=7aJWgmdIcX2T-Fx1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video.     
 
     p(data-aos="fade-down").mb-5 De acuerdo con su estructura o #[b.tb kernel], los sistemas operativos se clasifican como se indica a continuación. 
