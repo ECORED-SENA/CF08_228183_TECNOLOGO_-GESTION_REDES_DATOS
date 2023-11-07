@@ -125,7 +125,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.png', alt='')            
             .col-lg-7.my-3
               h4.tb #[i Bridge] (Puente) 
-              p Fundamentalmente son "repetidores inteligentes que envían el tráfico de un segmento a otro solo cuando este se encuentra designado a otro segmento". Este dispositivo es especialmente útil para ampliar la extensión de la conectividad de la red o el número de nodos que la integran.               
+              p Fundamentalmente son repetidores inteligentes que envían el tráfico de un segmento a otro solo cuando este se encuentra designado a otro segmento. Este dispositivo es especialmente útil para ampliar la extensión de la conectividad de la red o el número de nodos que la integran.               
           .row.justify-content-center
             .col-lg-5.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/19.png', alt='')            
@@ -167,7 +167,7 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/TGYx-geVl8E?si=7aJWgmdIcX2T-Fx1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video.     
 
-    p(data-aos="fade-down").mb-5 De acuerdo con su estructura o #[b.tb kernel], los sistemas operativos se clasifican como se indica a continuación. 
+    p(data-aos="fade-down").mb-5 De acuerdo con su estructura o #[b.tb kernel], los sistemas operativos se clasifican como se indica a continuación:
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
